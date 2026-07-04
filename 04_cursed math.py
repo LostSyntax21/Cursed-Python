@@ -3,3 +3,4 @@ globals().update(n=5, C=type('',(dict,),{'__missing__':lambda _,k,b=__import__('
 n = 2 + 2
 print(f"2 + 2 = {n}")
 # print(no_quotes_lol)
+
