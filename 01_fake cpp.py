@@ -12,3 +12,4 @@ def main() -> int:
     cout >> "Hello World!";
 
 main()
+
